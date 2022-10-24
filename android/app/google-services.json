@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "156230106571",
+    "project_id": "servapp-b2c65",
+    "storage_bucket": "servapp-b2c65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156230106571:android:8e2b577f29f1429afb4a4e",
+        "android_client_info": {
+          "package_name": "com.device.device_guru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156230106571-ivm5sh7a1euuv40f8njqeq9v22qmh7cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.device.device_guru",
+            "certificate_hash": "123d2faa6d6981fcea9343833cca88bfe85b5583"
+          }
+        },
+        {
+          "client_id": "156230106571-fkta8b5bv4mn00tor752u5o25ec7c9lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaZy0iON0VuF_gdcaPaS0kgq_8zEsHNZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156230106571-fkta8b5bv4mn00tor752u5o25ec7c9lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
